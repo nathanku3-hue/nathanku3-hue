@@ -1,16 +1,14 @@
-## Hi there 👋
+# Backend & Systems Engineering | C++ · Python · DSP
 
-<!--
-**nathanku3-hue/nathanku3-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build testable systems with explicit failure boundaries, reproducible experiments, and measurable engineering trade-offs.
 
-Here are some ideas to get you started:
+### Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Meta-Harness](https://github.com/nathanku3-hue/meta-harness)** — Agent execution isolation, independent validation, and durable Git result custody.
+- **[Fluxara](https://github.com/nathanku3-hue/Fluxara)** — Research-grade thermal-safety supervision and MPC simulation, with fault injection and model-conditional invariants.
+
+### Engineering focus
+
+**Systems reliability · C++ and Python · DSP · Numerical computing · Reproducible testing**
+
+I prefer inspectable code and executable evidence over inflated claims. Each project documents its assumptions, tests, and limitations.
