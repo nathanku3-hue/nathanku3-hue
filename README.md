@@ -4,7 +4,8 @@ I build testable systems with explicit failure boundaries, reproducible experime
 
 ### Selected work
 
-- **[Meta-Harness](https://github.com/nathanku3-hue/meta-harness)** — Agent execution isolation, independent validation, and durable Git result custody.
+- **[VoiceFront-End-Bench](https://github.com/nathanku3-hue/voice-front-end-bench)** — C++17 streaming log-Mel Fbank, steady-state zero-allocation probe, AXI4-Stream adapter, and ASR endpoint evaluation.
+- **[Meta-Harness](https://github.com/nathanku3-hue/meta-harness)** — Agent execution isolation, independent outside-model validation, and durable Git result custody.
 - **[Fluxara](https://github.com/nathanku3-hue/Fluxara)** — Research-grade thermal-safety supervision and MPC simulation, with fault injection and model-conditional invariants.
 
 ### Engineering focus
